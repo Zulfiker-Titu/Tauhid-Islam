@@ -89,6 +89,12 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1,Deshi TV
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,Madami Channel Bangla
+http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
+#EXTINF:-1,Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
