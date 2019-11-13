@@ -26,7 +26,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,CHANNEL I (Extra)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/108.ts
 #EXTINF:-1,Channel S
-http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
