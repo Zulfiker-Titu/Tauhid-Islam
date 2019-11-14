@@ -75,8 +75,6 @@ http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
-#EXTINF:-1,Peace TV Bangla
-http://cdn.bd-cast.net/origin/173.199.116.220/hls/peacetv.m3u8?st=bSJqwkxePwLGnv0bC9NF0w&e=1573742988
 #EXTINF:-1,ABP Ananada
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
