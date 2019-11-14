@@ -46,7 +46,11 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Extra)
-http://92.60.38.69:8081/atv/gazitv/chunks.m3u8?nimblesessionid=76619&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOSA4OjE3OjIxIEFNJmhhc2hfdmFsdWU9bVc3TEpOM0E1cWF6ZXFkQjBTQlY1dz09JnZhbGlkbWludXRlcz01
+http://iptv.kitv.live:1935/live/Shari/MTV-P/110.ts
+#EXTINF:-1,BAN VS IND (BD IP 1)
+http://182.48.82.130/channel1/myStream_360p/playlist.m3u8
+#EXTINF:-1,BAN VS IND (BD IP 2)
+http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Jamuna TV
@@ -103,8 +107,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,Khushboo Bangla
-http://207.180.245.200:1935/live1/live1/chunklist_w2058922677_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNTczNzI3NTIwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNTczNzIzOTIwJmJkaXhzcG9ydHN0b2tlbmhhc2g9NHNkR2VBZ01kanh3Q1M3RW9ybUl2NmllYUw0QmRrdjQ4ZnhnQ1BnaDRMdz0=.m3u8
 #EXTINF:-1,Madami Channel Bangla
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1,Nandan TV
