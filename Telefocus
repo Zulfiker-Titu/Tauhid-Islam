@@ -46,7 +46,8 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV (Extra)
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8?nimblesessionid=13763763&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOSA2OjA4OjAwIEFNJmhhc2hfdmFsdWU9amVjQ0pLSzkxQU5NL01ZdHNJNlJ5QT09JnZhbGlkbWludXRlcz01
+http://92.60.38.69:8081/atv/gazitv/chunks.m3u8?nimblesessionid=76619&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAxOSA4OjE3OjIxIEFNJmhhc2hfdmFsdWU9bVc3TEpOM0E1cWF6ZXFkQjBTQlY1dz09JnZhbGlkbWludXRlcz01
+
 #EXTINF:-1,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Jamuna TV
