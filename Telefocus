@@ -109,6 +109,8 @@ http://207.180.245.200:1935/live1/live1/chunklist_w950140637_tkYmRpeHNwb3J0c3Rva
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1,Probashi Bangla
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
