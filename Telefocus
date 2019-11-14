@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1,Asian TV
+#EXTINF:-1,ASIAN TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1,ATN BANGLA
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,ATN News
+#EXTINF:-1,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1,Bangla TV
+#EXTINF:-1,BANGLA TV
 http://27.147.156.14:1935/Bangla-TV/Bangla-TV.stream/chunks.m3u8
-#EXTINF:-1,Bangla Vision
+#EXTINF:-1,BANGLA VISION
 http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
-#EXTINF:-1,Bijoy TV
+#EXTINF:-1,BIJOY TV
 http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
-#EXTINF:-1,Boishakhi TV
+#EXTINF:-1,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1,BTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/122.ts
 #EXTINF:-1,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1,Channel 9
+#EXTINF:-1,CHANNEL 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1,CHANNEL 24
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
-#EXTINF:-1,Channel I
+#EXTINF:-1,CHANNEL I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1,CHANNEL I (Extra)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/108.ts
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,DBC News
@@ -33,10 +33,8 @@ http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,DEEPTO TV (Extra)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/109.ts
-#EXTINF:-1,Desh TV
-http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
-#EXTINF:-1,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1,Desh TVhttp://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
+#EXTINF:-1,Duronto TVhttps://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,DURONTO TV (Extra)
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,Ekattor TV
@@ -75,18 +73,16 @@ http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
+#EXTINF:-1,Peace TV Bangla
+http://cdn.bd-cast.net/origin/173.199.116.220/hls/peacetv.m3u8?st=bSJqwkxePwLGnv0bC9NF0w&e=1573742988
 #EXTINF:-1,ABP Ananada
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,RPLUS NEWS
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 #EXTINF:-1,ARTAGE NEWS
 http://artage.livebox.co.in/ArtageNewshls/live.m3u8
-#EXTINF:-1,Akash AATH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/130.ts
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,KOLKATA TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/202.ts
 #EXTINF:-1,Ruposhi Bangla
 http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,SONY AATH
@@ -105,18 +101,20 @@ http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1,Probashi Bangla
+http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,Madami Channel Bangla
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1,Probashi Bangla
-http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1,ATN Music
+http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1,DY365
