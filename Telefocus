@@ -33,8 +33,10 @@ http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,DEEPTO TV (Extra)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/109.ts
-#EXTINF:-1,Desh TVhttp://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
-#EXTINF:-1,Duronto TVhttps://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1,Desh TV
+http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
+#EXTINF:-1,Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,DURONTO TV (Extra)
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,Ekattor TV
