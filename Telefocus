@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,ASIAN TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN NEWS
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV
 http://27.147.156.14:1935/Bangla-TV/Bangla-TV.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION
@@ -12,13 +12,13 @@ http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV
 http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BTV
 http://103.3.226.74:1934/cZVydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
 #EXTINF:-1,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+http://173.82.159.42:8080/live/CHANNEL-9/CH214771/cdae53cb65e1ab70dd3fae6ce1f6e26a5510225081d9c3f9fcb0056ade0e9312/index.m3u8
 #EXTINF:-1,CHANNEL 24
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
@@ -34,9 +34,9 @@ http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1,BAN VS IND (BD IP 1)
@@ -44,27 +44,27 @@ http://182.48.82.130/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,BAN VS IND (BD IP 2)
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://27.147.156.14:1935/Jamuna-TV/Jamuna-TV.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://103.121.36.238:8081/live/maasranga/chunks.m3u8
 #EXTINF:-1,MOHONA TV
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
 #EXTINF:-1,MY TV
 http://27.147.156.14:1935/MY-TV/MY-TV.stream/chunks.m3u8
 #EXTINF:-1,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+http://103.121.36.238:8081/live/ntv/chunks.m3u8
 #EXTINF:-1,NTV (UK)
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1,NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
 #EXTINF:-1,RTV
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 #EXTINF:-1,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
 #EXTINF:-1,Songsad TV
@@ -77,20 +77,22 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 #EXTINF:-1,TV24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
+#EXTINF:-1,Akaash Aath
+http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
-http://cdn.bdiptv.design:8081/atv/ColorsBangla/chunks.m3u8?nimblesessionid=9836137&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxOSAxMDowNDowNSBBTSZoYXNoX3ZhbHVlPXE3NlpORWZ0WFV5a0hkWnRwZ1BzcWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://10.16.100.203:8082/bangla/colorsbangla.m3u8
 #EXTINF:-1,SONY AATH
-http://iptv.kitv.live:1935/live/Shari/MTV-P/123.ts
+http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:-1,Star Jalsha
 http://163.172.29.246:8081/globe/starjalsha/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://103.205.133.42:1935/local/zee_bangla_720/chunklist_w1359717910.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.kitv.live:1935/live/Shari/MTV-P/167.ts
+http://103.81.104.222/live/discovery-ch/index.m3u8
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
@@ -168,9 +170,9 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 #EXTINF:-1,Nokshi IPTV
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1,ATN Music
 http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,RTV Music
