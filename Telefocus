@@ -78,14 +78,12 @@ http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 #EXTINF:-1,TV24 Bangla
 http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1,Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+http://cdn.bdiptv.design:8081/atv/ColorsBangla/chunks.m3u8?nimblesessionid=9836137&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxOSAxMDowNDowNSBBTSZoYXNoX3ZhbHVlPXE3NlpORWZ0WFV5a0hkWnRwZ1BzcWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1,SONY AATH
 http://iptv.kitv.live:1935/live/Shari/MTV-P/123.ts
 #EXTINF:-1,Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1,STAR JALSHA (Extra)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/125.ts
-#EXTINF:-1,Star Jalsha Movies
+http://163.172.29.246:8081/globe/starjalsha/chunks.m3u8
+#EXTINF:-1,Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
