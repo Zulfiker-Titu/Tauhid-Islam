@@ -36,7 +36,7 @@ http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,Ekattor TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Ekushey TV
-http://103.121.36.238:8081/live/ekushey/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1,BAN VS IND (BD IP 1)
@@ -48,19 +48,19 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,Jamuna TV
 http://27.147.156.14:1935/Jamuna-TV/Jamuna-TV.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.121.36.238:8081/live/maasranga/chunks.m3u8
-#EXTINF:-1,MOHONA TV
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#XTINF:-1,MOHONA TV
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
 #EXTINF:-1,MY TV
 http://27.147.156.14:1935/MY-TV/MY-TV.stream/chunks.m3u8
 #EXTINF:-1,NTV
-http://103.121.36.238:8081/live/ntv/chunks.m3u8
-#EXTINF:-1,NTV (UK)
+https://itpolly.iptv.digijadoo.net/live/ntv/playlist.m3u8
+#XTINF:-1,NTV (UK)
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1,NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Nagorik TV
-http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8
 #EXTINF:-1,RTV
 http://27.147.156.14:1935/R-TV/R-TV.stream/chunks.m3u8
 #EXTINF:-1,SA TV
