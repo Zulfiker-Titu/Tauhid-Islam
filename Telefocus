@@ -157,6 +157,10 @@ http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1,Madani Channel Bangla
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
+#EXTINF:-1,Khushboo Bangla
+http://207.180.245.200:1935/live1/live1/chunklist_w869708369_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNTc0MjIwNjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNTc0MjE3MDYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9Tmd3dlRGdDloOFp0d2NlVmdPMzJtRFZOUkZSempzYjFCV3NOckJRMWhTYz0=.m3u8
+#EXTINF:-1,CTVN AKD Plus
+http://217.182.72.190/ctvnhls/live.m3u8
 #EXTINF:-1,Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,Alif TV
@@ -189,3 +193,9 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
 #EXTINF:-1,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1,NEWS7
+http://news7.mycast.in/encode/news7/playlist.m3u8
+#EXTINF:-1,mbc TV
+http://gmkd57vernxo-hls-live.wmncdn.net/mbctv/live.stream/index.m3u8
+#EXTINF:-1,Naxatra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
