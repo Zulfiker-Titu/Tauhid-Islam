@@ -48,7 +48,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,Jamuna TV
 http://27.147.156.14:1935/Jamuna-TV/Jamuna-TV.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.121.36.238:8081/live/maasranga/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/playlist.m3u8
 #EXTINF:-1,MOHONA TV
 http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
 #EXTINF:-1,MY TV
@@ -86,7 +86,7 @@ http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
-http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -159,8 +159,8 @@ http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1,Madani Channel Bangla
 http://svs.itworkscdn.net/madanitvbalive/mdtvb.smil/playlist.m3u8
-#EXTINF:-1,Khushboo Bangla
-http://207.180.245.200:1935/live1/live1/chunklist_w869708369_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNTc0MjIwNjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNTc0MjE3MDYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9Tmd3dlRGdDloOFp0d2NlVmdPMzJtRFZOUkZSempzYjFCV3NOckJRMWhTYz0=.m3u8
+#EXTINF:-1,Azan TV
+http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
 #EXTINF:-1,CTVN AKD Plus
 http://217.182.72.190/ctvnhls/live.m3u8
 #EXTINF:-1,Nandan TV
