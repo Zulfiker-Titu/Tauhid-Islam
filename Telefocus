@@ -82,7 +82,7 @@ http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://163.172.29.246:8081/globe/colorsbangla/chunks.m3u8
 #EXTINF:-1,SONY AATH
-http://103.81.104.222/live/sonyaath/index.m3u8
+http://173.82.54.226:8080/live/SONY-AATH/CH228864/0e110191c12ea86f439149e5d1c901bb05f63946e6f1955234c9c4625817a9be/SONY-AATH_2_playlist.m3u8
 #EXTINF:-1,Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
