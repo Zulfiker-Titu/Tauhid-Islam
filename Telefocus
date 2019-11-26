@@ -105,6 +105,17 @@ http://72.139.72.18:1935/live/myStream/playlist.m3u8
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1,NRB TV
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1,NRB Connect
+http://vod.beeiptv.com:8081/NRB/nrbconnect/playlist.m3u8
+#EXTINF:-1,S Vision
+http://vod.beeiptv.com:8081/Svision/svisiontv/playlist.m3u8
+#EXTINF:-1,Sristy TV
+http://vod.beeiptv.com:8081/sristy/sristytv/playlist.m3u8
+#EXTINF:-1,Chsnnel S
+http://cdn01.eiego.net:8081/playout/channels/playlist.m3u8
+#EXTINF:-1,Shopno
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1,Deshe Bideshe
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/live-orgin/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1,TVone UK
