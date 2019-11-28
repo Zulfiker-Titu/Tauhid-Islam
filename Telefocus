@@ -83,22 +83,14 @@ http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Sony Aath
-http://103.81.104.222/live/sonyaath/index.m3u8
-#EXTINF:-1,Star Jalsha (1)
-http://163.172.29.246:8081/globe/starjalsha/chunks.m3u8
-#EXTINF:-1,Star Jalsha (2)
-http://103.81.104.222/live/starjalsha/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.111.120.46/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
-#EXTINF:-1,Discovery Channel
-http://103.81.104.222/live/discovery-ch/index.m3u8
-#EXTINF:-1,National Geographic
-http://103.81.104.222/live/nat-geo/index.m3u8
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
