@@ -208,7 +208,7 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
 http://rtmp.smartstream.video:1935/newsliveold/newsliveold/playlist.m3u8
 #EXTINF:-1,Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1,DD North-East
+#EXTINF:-1,DD North East
 http://streamidvo.multitvsolution.in/DDNorthEast-c/playlist.m3u8
 #EXTINF:-1,NEWS7
 http://news7.mycast.in/encode/news7/playlist.m3u8
