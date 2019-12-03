@@ -35,6 +35,8 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.
 http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+#EXTINF:-1,SONIC
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Ekushey TV
