@@ -201,6 +201,8 @@ http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://27.147.156.14:1935/Sangeet-Bangla/Sangeet-Bangla.stream/chunks.m3u8
+#EXTINF:-1,Bangla Talkies
+http://27.147.156.14:1935/BanglaTalk/banglatalk.stream/playlist.m3u8
 #EXTINF:-1,Music Fatafati
 http://209.126.117.64:1935/local/mf/playlist.m3u8
 #EXTINF:-1,Doom Music
