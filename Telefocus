@@ -48,7 +48,7 @@ https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/INDEPENDENT/playlist.m3u8
 #EXTINF:-1,Jamuna TV
 https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1,Maasranga TV
