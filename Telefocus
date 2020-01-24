@@ -36,13 +36,13 @@ http://103.58.73.26/streams/120/index.m3u8
 #EXTINF:-1,Desh TV
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
-http://telelivetv.webredirect.org:8081/globeworld2020/ekattor/playlist.m3u8
+https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
 http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/GAZI-TV/chunklist.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
-http://fr-c.movply.stream/hls/gazi-tv.m3u8
+http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
@@ -59,8 +59,6 @@ http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
 http://103.118.76.234:1935/tvprogram/N-TV/chunklist.m3u8
 #EXTINF:-1,NTV (UK)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1,NTV (US)
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Nagorik TV
 http://42.0.6.130/hls/P2n6mKElOtuUx228uH9PeQ/1576664140/nagorik_tv_hi/index.m3u8
 #EXTINF:-1,News 24
@@ -68,7 +66,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,RTV
 http://telelivetv.webredirect.org:8081/globeworld2020/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://103.118.76.234:1935/tvprogram/SATV/chunklist.m3u8
 #EXTINF:-1,Somoy News
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Songsad TV
@@ -102,7 +100,7 @@ http://103.58.73.26/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
-https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
+https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-2)
@@ -111,10 +109,14 @@ https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 http://42.0.6.130/hls/qW4dVSlc7A9NHG3DKd_vnw/1564902824/bongo_movies_hi/index.m3u8
 #EXTINF:-1,Bongo Bangla
 http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
+#EXTINF:-1,Tollywood Movies
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:-1,RPlus Gold
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1,UTV Bangla
+http://43.231.22.238:8081/UTVBD/UTV/playlist.m3u8
 #EXTINF:-1,Enterr 10 Bangla
 http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,ENTV Bangla
@@ -145,6 +147,8 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
+#EXTINF:-1,Sobuj Bangla
+http://smartstream.cf/lite/sobujbangla/index.m3u8
 #EXTINF:-1,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,Varendra TV
