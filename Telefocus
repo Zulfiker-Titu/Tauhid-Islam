@@ -46,7 +46,7 @@ https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
 http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
-http://103.58.73.26/streams/108/index.m3u8
+http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
 http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/playlist.m3u8
 #EXTINF:-1,BD IP 1
@@ -85,15 +85,21 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1,TLC
 http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
-#EXTINF:-1,Akaash Aath
+#EXTINF:-1,Akaash Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1,Akaash Aath (Opt-2)
+http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
+#EXTINF:-1,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1,Colors Bangla
+http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m3u8
+#EXTINF:-1,Sony Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:-1,Star Jalsha (Opt-1)
+#EXTINF:-1,Sony Aath (Opt-2)
+http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
+#EXTINF:-1,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha (Opt-2)
+#EXTINF:-1,Star Jalsha
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.58.73.26/streams/115/index.m3u8
@@ -220,7 +226,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://www.skybdlive.com/live/skyfeed1029/index.m3u8
+http://42.0.6.130/hls/Yb9b9azLEK_v3whpT6i-6Q/1564901785/sangeet_bangla_hi/index.m3u8
 #EXTINF:-1,Music Fatafati
 http://209.126.117.64:1935/local/mf/playlist.m3u8
 #EXTINF:-1,Doom Music
