@@ -24,9 +24,9 @@ http://42.0.6.130/hls/-bSsQP2bB9EAopwEDkllbg/1578199997/btv_world_hi/index.m3u8
 #EXTINF:-1,CHANNEL 9 (Opt-01)
 http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:-1,CHANNEL 9 (Opt-02)
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+http://fr-c.movply.stream/hls/channel9-tv.m3u8
 #EXTINF:-1,CHANNEL 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
@@ -34,25 +34,23 @@ http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,DBC News
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/playlist.m3u8
 #EXTINF:-1,Desh TV
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Sonic
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1,Nick (Bangla)
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://103.81.104.222/live/duranta/index.m3u8
+#EXTINF:-1,Nick Bangla
+http://103.81.104.222/live/nick-jr/index.m3u8
 #EXTINF:-1,Sony Yay (Bangla)
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+http://103.68.116.50/live/feed1002/index.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://103.58.73.26/streams/108/index.m3u8
 #EXTINF:-1,Gazi TV (Opt-3)
 http://103.111.120.46/hls/gazi-tv.m3u8
 #EXTINF:-1,BD IP 1
@@ -62,13 +60,13 @@ http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,Jamuna TV
 http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 #EXTINF:-1,Maasranga TV
-https://itpolly.iptv.digijadoo.net/live/maasranga/playlist.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/playlist.m3u8
 #EXTINF:-1,MOHONA TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
 #EXTINF:-1,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/playlist.m3u8
+http://telelive.livebox.co.in/iptvhls/live.m3u8
 #EXTINF:-1,NTV (UK)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,Nagorik TV
@@ -76,7 +74,7 @@ http://42.0.6.130/hls/P2n6mKElOtuUx228uH9PeQ/1576664140/nagorik_tv_hi/index.m3u8
 #EXTINF:-1,News 24
 http://23.106.120.42:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
 http://42.0.6.130/hls/w6jIZwBfq-KOpg9GNUoQmw/1578199928/sa_tv_hi/index.m3u8
 #EXTINF:-1,Somoy News
@@ -93,26 +91,24 @@ http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-2)
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-#EXTINF:-1,Colors Bangla HD
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1,Colors Bangla (Opt-01)
+http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+#EXTINF:-1,Colors Bangla (Opt-02)
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m3u8
 #EXTINF:-1,Sony Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath (Opt-2)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1,Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (Opt-01)
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsha (Opt-02)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
 http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1,Jalsha Movies (Opt-3)
-http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.58.73.26/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
