@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.favpng.com/25/6/0/camera-lens-lens-flare-png-favpng-QqP6uF7SHqdJryVQTkTAiFN3c.jpg" group-title="Telefocus IPTV",[WhatsApp +8801711262512]
+#EXTINF:-1 tvg-logo="https://img.favpng.com/25/6/0/camera-lens-lens-flare-png-favpng-QqP6uF7SHqdJryVQTkTAiFN3c.jpg" group-title="Telefocus IPTV",[WhatsApp/IMO +8801711262512]
 https://streamable.com/gdj7r
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla Movies",Ananda TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
@@ -183,6 +183,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Entertainment",MB TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mbtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8zPr1D/Magic-Bangla-TV.jpg" group-title="Entertainment",Magic Bangla TV
+http://128.199.212.160/magicbanglatv/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hF1Rb7n/Movie-Bangla.jpg" group-title="Bangla Movies",Movie Bangla
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/87GY8Qc/Millennium-TV.jpg" group-title="Entertainment",Millennium TV
@@ -225,6 +227,8 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.40:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgqjLxY/BVC-Bangla-TV.jpg" group-title="Entertainment",BVC Bangla TV
+http://103.113.14.218:8081/globalbangla/bvcbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oujmC_xPCic/W7hNwyi3nPI/AAAAAAAACkY/O4vbZqc3UO4sEAB7DzG2b_SRBiodxEjogCLcBGAs/s200/Jonack.png" group-title="Assamese",Jonack TV
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
